@@ -17,8 +17,6 @@ QGIS is a free and open-source cross-platform desktop geographic information sys
 {: .highlight }
 Install QGIS from [https://www.qgis.org/].
 
-[https://www.qgis.org/]: https://www.qgis.org/
-
 ### Adding Layers from Public Repository
 
 We'll add some content available on the Be'er Sheva municipal GIS website. We'll start with the short version, and then I'll go into more details that might help you in the future.
@@ -37,3 +35,18 @@ We'll add some content available on the Be'er Sheva municipal GIS website. We'll
 After completing these stems, you should have an unlimited access to the 2017 high definition orthophoto map of Be'er Sheva. You can export images and maps of any size with QGIS without the need to capture your screen.
 
 Theoretically, this can be achived with any municipality which offers an online GIS browser. I'll demonstrate how I got the URL for the Be'er Sheva orthophoto layer.
+
+### Hacking a Municipal GIS Website
+
+Navigate a GIS website of your choice. For this example, I will use the [Be'er Sheva one].
+
+Right-click anywhere on the website and choose _Inspect_ (alternatively, press **Cmd + Option + I** on a mac, or **Ctrl + Shift + I** on Windows).
+
+On the new panel at the left side of your screen, look for the _Network_ tab, and keep it open. It will show you all the elements that are being loaded on the website.
+
+On the GIS website, load the layer you interested in, for example - the _2020 Orthophoto_. As you load that layer, you will notice a lot of movement on the Network panel, as new pieces of the orthophoto are loaded up. Click any of the items in the Network panel, and a small image tile will open on your browser in a new tab.
+
+In the new tab with the image tile, look at the URL - it is very similar to the URL we've used to load the 2017 orthophoto. You can use that URL to load the 2020 orthophoto to QGIS, just remove the last bit of the URL that looks something like this: **tile/2/3019/2575**.
+
+[https://www.qgis.org/]: https://www.qgis.org/
+[be'er sheva one]: https://gis.br7.org.il/apps/br7/
