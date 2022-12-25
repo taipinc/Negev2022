@@ -4,8 +4,25 @@ theme: just-the-docs
 
 url: https://taipinc.github.io/negev2022
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+callouts_level: quiet
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+plugins:
+  - jekyll-seo-tag
 
 kramdown:
   syntax_highlighter_opts:

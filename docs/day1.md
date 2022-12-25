@@ -48,5 +48,7 @@ On the GIS website, load the layer you interested in, for example - the _2020 Or
 
 In the new tab with the image tile, look at the URL - it is very similar to the URL we've used to load the 2017 orthophoto. You can use that URL to load the 2020 orthophoto to QGIS, just remove the last bit of the URL that looks something like this: **tile/2/3019/2575**.
 
+https://gis.br7.org.il/arcgis/rest/services/basemaps/OrthoPhoto_2020/MapServer/~~tile/2/3019/2575~~
+
 [https://www.qgis.org/]: https://www.qgis.org/
 [be'er sheva one]: https://gis.br7.org.il/apps/br7/
