@@ -4,26 +4,6 @@ theme: just-the-docs
 
 url: https://taipinc.github.io/negev2022
 
-color_scheme: nil
-
-callouts_level: quiet
-
-callouts:
-  highlight:
-    color: yellow
-  important:
-    title: Important
-    color: blue
-  new:
-    title: New
-    color: green
-  note:
-    title: Note
-    color: purple
-  warning:
-    title: Warning
-    color: red
-
 kramdown:
   syntax_highlighter_opts:
     block:
