@@ -6,7 +6,7 @@ url: https://taipinc.github.io/negev2022
 
 color_scheme: nil
 
-callouts_level: quiet # or loud
+callouts_level: quiet
 
 callouts:
   highlight:
