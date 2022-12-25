@@ -6,3 +6,6 @@ url: https://taipinc.github.io/negev2022
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+plugins:
+  - kramdown
