@@ -14,7 +14,7 @@ nav_order: 2
 
 QGIS is a free and open-source cross-platform desktop geographic information system application that supports viewing, editing, printing, and analysis of geospatial data. All information and images viewed and used within QGIS is georefernced,
 
-Install QGIS from [https://www.qgis.org/].
 {: .highlight }
+Install QGIS from [https://www.qgis.org/].
 
 [https://www.qgis.org/]: https://www.qgis.org/
