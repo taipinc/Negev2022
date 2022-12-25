@@ -4,7 +4,10 @@ theme: just-the-docs
 
 url: https://taipinc.github.io/negev2022
 
-callouts_level: quiet
+color_scheme: nil
+
+callouts_level: quiet # or loud
+
 callouts:
   highlight:
     color: yellow
