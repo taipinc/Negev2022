@@ -9,6 +9,7 @@ aux_links:
 color_scheme: nil
 
 callouts_level: quiet # or loud
+
 callouts:
   highlight:
     color: yellow
