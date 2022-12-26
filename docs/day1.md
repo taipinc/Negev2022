@@ -12,6 +12,10 @@ nav_order: 2
 
 # Geographic Simulation with Unread Engine and Cesium
 
+Unreal Engine is a game engine intended for designing and programming computer games in a three-dimentional enviroment. Because it provides a live and interactive 3d simulation, it gained popularity with the entairtainment and architecte industries, and more.
+
+We will use Unreal Engine, together with a plugin called _Cesium_ to create a geographic simulation of Be'er Sheva, where we will store our 3d models library.
+
 {: .highlight }
 Install Unreal Engine from [https://www.unrealengine.com/en-US/download].
 
