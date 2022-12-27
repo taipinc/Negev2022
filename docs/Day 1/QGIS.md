@@ -2,7 +2,7 @@
 layout: default
 title: QGIS
 parent: Day 1
-nav_order: 3
+nav_order: 1
 ---
 
 # Using Aerial Photography with QGIS
@@ -17,7 +17,7 @@ Install QGIS from [https://www.qgis.org/].
 We'll add some content available on the Be'er Sheva municipal GIS website. We'll start with the short version, and then I'll go into more details that might help you in the future.
 
 - After creating a new project, look at the _Browser_ panel on the left side of the screen.
-- Right-click _ArcGIS REST_ Servers* and choose \_New Connection*.
+- Right-click _ArcGIS REST_ Servers* and choose New Connection*.
 
   ![](../images/qgis01.png)
 
