@@ -15,7 +15,7 @@ We will use Unreal Engine, together with a plugin called _Cesium_ to create a ge
 Install Unreal Engine from [https://www.unrealengine.com/en-US/download].
 
 {: .important }
-While Unreal Engine is installed - go ahead and open an account at Cesium].
+While Unreal Engine is installed - go ahead and open an account at [Cesium].
 
 [https://www.unrealengine.com/en-us/download]: https://www.unrealengine.com/en-US/download
 [cesium]: https://cesium.com/

@@ -47,5 +47,18 @@ In the new tab with the image tile, look at the URL - it is very similar to the 
 {: .highlight }
 https://gis.br7.org.il/arcgis/rest/services/basemaps/OrthoPhoto_2020/MapServer/~~tile/2/3019/2575~~
 
+In short, here are the links to all orthophoto layers available for Be'er Sheva:
+
+{: .highlight }
+2010: https://gis.br7.org.il/arcgis/rest/services/basemaps/OrthoPhoto_2010/MapServer/
+2016: https://gis.br7.org.il/arcgis/rest/services/basemaps/orthophoto_2016/MapServer/
+2017: https://gis.br7.org.il/arcgis/rest/services/basemaps/orthophoto2017/MapServer/
+2018: https://gis.br7.org.il/arcgis/rest/services/basemaps/Orthophoto_2018/MapServer/
+2019: https://gis.br7.org.il/arcgis/rest/services/basemaps/orthophoto_2019/MapServer/
+2020: https://gis.br7.org.il/arcgis/rest/services/basemaps/OrthoPhoto202010/MapServer/
+2020: https://gis.br7.org.il/arcgis/rest/services/basemaps/OrthoPhoto_2020/MapServer/
+2021: https://gis.br7.org.il/arcgis/rest/services/basemaps/OrthoPhoto202106/MapServer/
+2022: https://gis.br7.org.il/arcgis/rest/services/basemaps/OrthoPhoto202203/MapServer/
+
 [https://www.qgis.org/]: https://www.qgis.org/
 [be'er sheva one]: https://gis.br7.org.il/apps/br7/
