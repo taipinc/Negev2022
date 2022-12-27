@@ -1,6 +1,7 @@
 ---
 layout: default
 title: QGIS
+parent: Day 1
 nav_order: 3
 ---
 
