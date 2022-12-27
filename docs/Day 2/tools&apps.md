@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Day 1
+title: Tools & Apps
+parent: Day 2
 nav_order: 2
-has_children: true
 ---
