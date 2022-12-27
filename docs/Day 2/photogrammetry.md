@@ -19,15 +19,21 @@ Circulate around the object, taking pictures from multiple sides. You should cap
 
 For a facade, you want to have a few images of each detail from several positions. To that end, you can simply walk along the facade, and capture images in 3 directions. Make sure you have a lot of overlap between the images.
 
+![](../../images/photogram2-700xauto.jpg)
+
 ## Capturing an Interior
 
 Go around the room, with your back to the wall, and capture images of the walls that are opposite from you. You may want to take the images in portrait orientation so that a single image would capture from the ceiling to the floor. You may need to take a few images of the middle of the floor and ceiling from time to time, to make sure they are covered in your images.
+
+![](../../images/photogram3-700xauto.jpg)
 
 ## Interior – Multiple Rooms
 
 If you want your model to connect several rooms, you need to have a buffer between them that is sufficiently covered by images, so that the computer knows how to connect them. If there’s no opening between the two rooms, there’s no way to connect them automatically.
 
 Capture the two rooms as any other single interior room. Then capture the doorway or opening between them, as if it was an object – meaning, from many different sides.
+
+![](../../images/photogram4-700xauto.jpg)
 
 ## Processing
 
