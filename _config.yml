@@ -12,7 +12,7 @@ callouts_level: quiet # or loud
 
 callouts:
   highlight:
-    color: red
+    color: green
   important:
     title: Important
     color: blue
