@@ -20,6 +20,7 @@ Installing Unreal Engine is a multi-step process. The downloaded file will insta
 While Unreal Engine is installed - go ahead and open an account at [Cesium].
 
 After you're done installing the engine, navigate to the Marketplace tab to install the Cesium plugin. Search for **Cesium for Unreal**, and complete its installation.
+After everything is installed, click the **Launch** button on the upper right corner to start the engine. You'll be prompted to open a new project and select a template for it. Select the **game** category and a **blank** template.
 
 [https://www.unrealengine.com/en-us/download]: https://www.unrealengine.com/en-US/download
 [cesium]: https://cesium.com/
