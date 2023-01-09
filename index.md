@@ -4,28 +4,10 @@ layout: home
 nav_order: 1
 ---
 
-This is a _bare-minimum_ template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+![](/images/mountScopus2s-700xauto.jpg)
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site _locally_. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+A single photograph contains more than just documentation of its subject. When studied closely, photographs provide much more information about the context of the photographic moment, and on the intentions and subjectivity of the photographer. Computational photography – the processing of photographs as digital information – allows us to step outside of the photographic moment and context, to eliminate subjectivity (or at least try to), and to study photographs as architectural documents and as forensic evidence.
 
-More specifically, the created site:
+In this 3-day workshop, students will experiment with computational and photographic techniques to study and represent sites and places. Working in groups, students will work on a specific site and examine it using GIS mapping software, photogrammetry, programming, drone photography, archival and municipal information, 3d photographic reconstruction, and machine learning.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
-
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
-
-[Browse our documentation][just the docs] to learn more about how to use this theme.
-
-To get started with creating a site, just click "[use this template]"!
-
----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[just the docs]: https://just-the-docs.github.io/just-the-docs/
-[github pages]: https://docs.github.com/en/pages
-[readme]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[jekyll]: https://jekyllrb.com
-[github pages / actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+Out of the many tools you will be introduced to during this workshop, each student will pick one or two to further develop and experiment with. The purpose of this workshop is to encourage you to explore new forms and mediums for the production of spatial knowledge.
