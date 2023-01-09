@@ -14,8 +14,12 @@ We will use Unreal Engine, together with a plugin called _Cesium_ to create a ge
 {: .highlight }
 Install Unreal Engine from [https://www.unrealengine.com/en-US/download].
 
+Installing Unreal Engine is a multi-step process. The downloaded file will install the **Epic Games Launcher**, which you'll use to install and manage your Unreal Engine installation. Under the Library tab, you can install the latest version of Unreal Engine.
+
 {: .important }
 While Unreal Engine is installed - go ahead and open an account at [Cesium].
+
+After you're done installing the engine, navigate to the Marketplace tab to install the Cesium plugin. Search for **Cesium for Unreal**, and complete its installation.
 
 [https://www.unrealengine.com/en-us/download]: https://www.unrealengine.com/en-US/download
 [cesium]: https://cesium.com/
