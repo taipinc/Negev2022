@@ -21,12 +21,12 @@ We'll add some content available on the Be'er Sheva municipal GIS website. We'll
 - After creating a new project, look at the _Browser_ panel on the left side of the screen.
 - Right-click _ArcGIS REST_ Servers* and choose New Connection*.
 
-  ![](../images/qgis01.png)
+  ![](./images/qgis01.png)
 
 - Add the following details:
   - **Name**: Be'er Sheva 2017
   - **URL**: https://gis.br7.org.il/arcgis/rest/services/basemaps/orthophoto2017/MapServer
-    ![](../images/qgis03.png)
+    ![](./images/qgis03.png)
 - Double-click on the new connection you created, _Be'er Sheva 2017_.
 - Double-click any of the layers available under that connection. That layer will be added to your project.
 
