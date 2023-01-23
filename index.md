@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-![](/images/mountScopus2s-700xauto.jpg)
+![](./images/mountScopus2s-700xauto.jpg)
 
 A single photograph contains more than just documentation of its subject. When studied closely, photographs provide much more information about the context of the photographic moment, and on the intentions and subjectivity of the photographer. Computational photography – the processing of photographs as digital information – allows us to step outside of the photographic moment and context, to eliminate subjectivity (or at least try to), and to study photographs as architectural documents and as forensic evidence.
 
