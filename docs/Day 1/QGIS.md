@@ -7,6 +7,8 @@ nav_order: 1
 
 # Using Aerial Photography with QGIS
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4FDjuk92Bhw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 QGIS is a free and open-source cross-platform desktop geographic information system application that supports viewing, editing, printing, and analysis of geospatial data. All information and images viewed and used within QGIS is georeferenced,
 
 {: .highlight }
