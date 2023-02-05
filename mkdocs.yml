@@ -1,0 +1,27 @@
+site_name: Photography, Computation & Place
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+
+nav:
+  - 'index.md'
+  - Day 1:
+    - Aerial Photography & QGIS: 'qgis.md'
+    - Unreal Engine & Cesium: 'unreal01.md'
+  - Day 2:
+    - Photogrammetry: 'photogr.md'
+    - Tools & Apps: 'tools.md'
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - attr_list
+  - md_in_html
